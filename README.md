@@ -19,3 +19,7 @@ $$
 $$
 
 This force is non-conservative; thus, the behavior of a particle no longer obeys the conservation of energy principle nor Newtonian mechanics.
+
+<img width="304" height="304" alt="physreportvisual" src="https://github.com/user-attachments/assets/3cbe6197-2651-4edf-9e89-888c7d0f35ba" />
+
+
