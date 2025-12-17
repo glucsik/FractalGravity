@@ -1,6 +1,6 @@
 # FractalGravity
 
-The fractals used in this study are referred to as Julia Sets. A Julia set is defined topologically as the perimeter separating the points $z \in \mathbb{C}$ that either approach a finite point $p$ (Basin of attraction, $\text{Bas}(p)$) or diverge to infinity (Basin of infinity, $\text{Bas}(\infty)$) under the iterates of the map $f_c$, where $f_c(z) = z^2 + c$.
+The fractals used in this study are referred to as Julia Sets. A Julia set is defined topologically as the perimeter separating the points $z \in \mathbb{C}$ that either approach a finite point $p$ (Basin of attraction, Bas(p)) or diverge to infinity (Basin of infinity, Bas($\infty$) under the iterates of the map $f_c$, where $f_c(z) = z^2 + c$.
 
 $$
 \begin{align}
